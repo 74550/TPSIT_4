@@ -1,0 +1,3 @@
+C:/Users/USER/OneDrive/Desktop/scuola/TPSIT/CLASSE 4/ESERCIZI/pile/parentesi_mod/cmake-build-debug/CMakeFiles/parentesi_mod.dir
+C:/Users/USER/OneDrive/Desktop/scuola/TPSIT/CLASSE 4/ESERCIZI/pile/parentesi_mod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/OneDrive/Desktop/scuola/TPSIT/CLASSE 4/ESERCIZI/pile/parentesi_mod/cmake-build-debug/CMakeFiles/rebuild_cache.dir

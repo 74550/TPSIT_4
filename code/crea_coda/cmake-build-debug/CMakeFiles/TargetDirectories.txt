@@ -1,0 +1,3 @@
+C:/Users/USER/OneDrive/Desktop/scuola/TPSIT/CLASSE 4/ESERCIZI/code/crea_coda/cmake-build-debug/CMakeFiles/crea_coda.dir
+C:/Users/USER/OneDrive/Desktop/scuola/TPSIT/CLASSE 4/ESERCIZI/code/crea_coda/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/OneDrive/Desktop/scuola/TPSIT/CLASSE 4/ESERCIZI/code/crea_coda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
